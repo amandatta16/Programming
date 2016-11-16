@@ -1,5 +1,6 @@
-// RnD.cpp : Defines the entry point for the console application.
-//
+//{5, 2, 6, 7}                                                                                                                                                                                                                                   
+//Subsets of above set
+//5 2 6 7 52 56 57 26 27 67 526 527 567 267 5267 0
 
 #include <iostream>
 #include <fstream>
